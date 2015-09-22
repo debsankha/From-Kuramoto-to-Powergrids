@@ -2,24 +2,16 @@
 
 ###ToDo (I list stuff that needs to be done, please do it and then delte the entry in this list):
 - Add nice Kuramoto picture for first slide
-- fill out the mathematical achievemnts on/by Kuramoto model
 - add derivation of swing equation
 - different ideas for "Effect of network topology on power grid dynamics"?
 - Add more research by other people (both in results and open questions)- 
 
 ###Kuramoto history and motivation
-short history: He started it as a toy model (in 1975) 
-"Self-entrainment of a population of coupled non-linear oscillators" 
-and because multiplicative coupling is more complicated to deal with than sine coupling.
+short history: He started it as a toy model (in 1975) and because multiplicative coupling is more complicated to deal with than sine coupling.
 It turned out to be a good description for many real world synchronization processes (neuroscience, chemical oscillators, and many more with modified Kuramoto models)
 http://i.ytimg.com/vi/lac4TxWyBOg/hqdefault.jpg
 
-###Mathematical achievements on Kuramoto system
-- Kuramoto(1975):  Scaling of order parameter with K, formula for $K_c$
-- Kuramoto & NishiKawa: Finite N fluctuations O(N^-1/2)
-- Mirollo & Strogatz: Continuous model, continuity equation
-- Mirollo & Strogatz: Linear stability of solutions. 
-- Wiley, Strogatz & Givran: Basin volume
+###Mathematical achievments on Kuramoto system
 (emphasize that most results are obtained for all-to-all coupling instead of complex networks)
 
 ###Power grid models

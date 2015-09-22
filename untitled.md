@@ -19,7 +19,7 @@ http://i.ytimg.com/vi/lac4TxWyBOg/hqdefault.jpg
 - Kuramoto & NishiKawa: Finite N fluctuations O(N^-1/2)
 - Mirollo & Strogatz: Continuous model, continuity equation
 - Mirollo & Strogatz: Linear stability of solutions. 
-- 
+- Wiley, Strogatz & Givran: Basin volume
 (emphasize that most results are obtained for all-to-all coupling instead of complex networks)
 
 ###Power grid models

@@ -47,11 +47,11 @@ Example: Four node system a) all-to-all
 b) line: +-+- c) line: ++--
 The critical coupling and hence synchronization depends crucially on the network structure
 
-###Results obtained so far
+###Results obtained so far (For everybody)
 - New lines can cause the power grid to lose synchrony (Braess paradox)
 - Dead ends are unfavorable for basin stability (Peter Menck)
 - Redundant capacity determines the line criticality (tbp)
-- ...
+- Effect of decentralization (martin Rohden)
 
 ###Open questions
 - Number of fixed points (Deb)

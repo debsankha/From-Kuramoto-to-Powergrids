@@ -10,6 +10,8 @@
 short history: He started it as a toy model (in 1975) and because multiplicative coupling is more complicated to deal with than sine coupling.
 It turned out to be a good description for many real world synchronization processes (neuroscience, chemical oscillators, and many more with modified Kuramoto models)
 http://i.ytimg.com/vi/lac4TxWyBOg/hqdefault.jpg
+http://jasss.soc.surrey.ac.uk/10/4/6/Dekker.fig4.gif
+http://jasss.soc.surrey.ac.uk/10/4/6/Dekker.fig4.gif
 
 ###Mathematical achievments on Kuramoto system
 - Kuramoto(1975):  Scaling of order parameter with K, formula for $K_c$

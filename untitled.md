@@ -12,6 +12,11 @@ It turned out to be a good description for many real world synchronization proce
 http://i.ytimg.com/vi/lac4TxWyBOg/hqdefault.jpg
 
 ###Mathematical achievments on Kuramoto system
+- Kuramoto(1975):  Scaling of order parameter with K, formula for $K_c$
+- Kuramoto & NishiKawa: Finite N fluctuations O(N^-1/2)
+- Mirollo & Strogatz: Continuous model, continuity equation
+- Mirollo & Strogatz: Linear stability of solutions. 
+- Wiley, Strogatz & Givran: Basin volume
 (emphasize that most results are obtained for all-to-all coupling instead of complex networks)
 
 ###Power grid models

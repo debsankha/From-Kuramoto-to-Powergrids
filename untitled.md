@@ -5,6 +5,7 @@
 - add derivation of swing equation
 - different ideas for "Effect of network topology on power grid dynamics"?
 - Add more research by other people (both in results and open questions)- 
+- Add more result obtained
 
 ###Kuramoto history and motivation
 short history: He started it as a toy model (in 1975) and because multiplicative coupling is more complicated to deal with than sine coupling.

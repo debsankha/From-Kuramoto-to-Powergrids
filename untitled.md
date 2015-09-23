@@ -1,17 +1,11 @@
 # From Kuramoto model to power grids
 
-###ToDo (I list stuff that needs to be done, please do it and then delte the entry in this list):
-- Add formula from http://link.springer.com/chapter/10.1007%2FBFb0013365?LI=true#page-1
-- add derivation of swing equation
-- different ideas for "Effect of network topology on power grid dynamics"?
-- Add more research by other people (both in results and open questions)- 
-
 ###Kuramoto history and motivation (Benjamin)
 short history: He started it as a toy model (in 1975) and because multiplicative coupling is more complicated to deal with than sine coupling.
 It turned out to be a good description for many real world synchronization processes (neuroscience, chemical oscillators, and many more with modified Kuramoto models)
 http://i.ytimg.com/vi/lac4TxWyBOg/hqdefault.jpg
 http://jasss.soc.surrey.ac.uk/10/4/6/Dekker.fig4.gif
-http://jasss.soc.surrey.ac.uk/10/4/6/Dekker.fig4.gif
+http://link.springer.com/chapter/10.1007%2FBFb0013365?LI=true#page-1
 
 ###Mathematical achievments on Kuramoto system (Deb)
 - Kuramoto(1975):  Scaling of order parameter with K, formula for $K_c$
